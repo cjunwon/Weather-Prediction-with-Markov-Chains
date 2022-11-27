@@ -1,0 +1,2094 @@
+datetime,conditions,quarter
+2000-04-01,Clear,2
+2000-04-02,Clear,2
+2000-04-03,Clear,2
+2000-04-04,Partially cloudy,2
+2000-04-05,Partially cloudy,2
+2000-04-06,Partially cloudy,2
+2000-04-07,Partially cloudy,2
+2000-04-08,Partially cloudy,2
+2000-04-09,Clear,2
+2000-04-10,Clear,2
+2000-04-11,Partially cloudy,2
+2000-04-12,Partially cloudy,2
+2000-04-13,Partially cloudy,2
+2000-04-14,"Rain, Partially cloudy",2
+2000-04-15,Partially cloudy,2
+2000-04-16,Partially cloudy,2
+2000-04-17,"Rain, Partially cloudy",2
+2000-04-18,"Rain, Partially cloudy",2
+2000-04-19,Partially cloudy,2
+2000-04-20,Clear,2
+2000-04-21,Partially cloudy,2
+2000-04-22,Partially cloudy,2
+2000-04-23,Partially cloudy,2
+2000-04-24,Clear,2
+2000-04-25,Clear,2
+2000-04-26,Clear,2
+2000-04-27,Partially cloudy,2
+2000-04-28,Partially cloudy,2
+2000-04-29,Clear,2
+2000-04-30,Clear,2
+2000-05-01,Clear,2
+2000-05-02,Clear,2
+2000-05-03,Clear,2
+2000-05-04,Partially cloudy,2
+2000-05-05,Partially cloudy,2
+2000-05-06,Partially cloudy,2
+2000-05-07,Partially cloudy,2
+2000-05-08,Partially cloudy,2
+2000-05-09,Partially cloudy,2
+2000-05-10,Partially cloudy,2
+2000-05-11,Partially cloudy,2
+2000-05-12,Clear,2
+2000-05-13,Clear,2
+2000-05-14,Partially cloudy,2
+2000-05-15,Partially cloudy,2
+2000-05-16,Partially cloudy,2
+2000-05-17,Clear,2
+2000-05-18,Clear,2
+2000-05-19,Clear,2
+2000-05-20,Clear,2
+2000-05-21,Partially cloudy,2
+2000-05-22,Partially cloudy,2
+2000-05-23,Partially cloudy,2
+2000-05-24,Partially cloudy,2
+2000-05-25,"Rain, Partially cloudy",2
+2000-05-26,Partially cloudy,2
+2000-05-27,Clear,2
+2000-05-28,Clear,2
+2000-05-29,Partially cloudy,2
+2000-05-30,Partially cloudy,2
+2000-05-31,Partially cloudy,2
+2000-06-01,Partially cloudy,2
+2000-06-02,Partially cloudy,2
+2000-06-03,Partially cloudy,2
+2000-06-04,Clear,2
+2000-06-05,Clear,2
+2000-06-06,Clear,2
+2000-06-07,Clear,2
+2000-06-08,Partially cloudy,2
+2000-06-09,Clear,2
+2000-06-10,Clear,2
+2000-06-11,Clear,2
+2000-06-12,Partially cloudy,2
+2000-06-13,Clear,2
+2000-06-14,Partially cloudy,2
+2000-06-15,Partially cloudy,2
+2000-06-16,Partially cloudy,2
+2000-06-17,Partially cloudy,2
+2000-06-18,Partially cloudy,2
+2000-06-19,Partially cloudy,2
+2000-06-20,Partially cloudy,2
+2000-06-21,Partially cloudy,2
+2000-06-22,Partially cloudy,2
+2000-06-23,Partially cloudy,2
+2000-06-24,Partially cloudy,2
+2000-06-25,Partially cloudy,2
+2000-06-26,Clear,2
+2000-06-27,Partially cloudy,2
+2000-06-28,Partially cloudy,2
+2000-06-29,Partially cloudy,2
+2000-06-30,Partially cloudy,2
+2001-04-01,Partially cloudy,2
+2001-04-02,Partially cloudy,2
+2001-04-03,Partially cloudy,2
+2001-04-04,Partially cloudy,2
+2001-04-05,Partially cloudy,2
+2001-04-06,Partially cloudy,2
+2001-04-07,"Rain, Partially cloudy",2
+2001-04-08,Clear,2
+2001-04-09,"Rain, Partially cloudy",2
+2001-04-10,Partially cloudy,2
+2001-04-11,Partially cloudy,2
+2001-04-12,Partially cloudy,2
+2001-04-13,Clear,2
+2001-04-14,Clear,2
+2001-04-15,Clear,2
+2001-04-16,Clear,2
+2001-04-17,Clear,2
+2001-04-18,Partially cloudy,2
+2001-04-19,Partially cloudy,2
+2001-04-20,"Rain, Partially cloudy",2
+2001-04-21,"Rain, Partially cloudy",2
+2001-04-22,Clear,2
+2001-04-23,Clear,2
+2001-04-24,Clear,2
+2001-04-25,Clear,2
+2001-04-26,Partially cloudy,2
+2001-04-27,Partially cloudy,2
+2001-04-28,Partially cloudy,2
+2001-04-29,Partially cloudy,2
+2001-04-30,Partially cloudy,2
+2001-05-01,Partially cloudy,2
+2001-05-02,Partially cloudy,2
+2001-05-03,Clear,2
+2001-05-04,Clear,2
+2001-05-05,Clear,2
+2001-05-06,Clear,2
+2001-05-07,Clear,2
+2001-05-08,Clear,2
+2001-05-09,Clear,2
+2001-05-10,Partially cloudy,2
+2001-05-11,Partially cloudy,2
+2001-05-12,Partially cloudy,2
+2001-05-13,"Rain, Partially cloudy",2
+2001-05-14,Partially cloudy,2
+2001-05-15,Partially cloudy,2
+2001-05-16,Partially cloudy,2
+2001-05-17,Partially cloudy,2
+2001-05-18,Partially cloudy,2
+2001-05-19,Partially cloudy,2
+2001-05-20,Partially cloudy,2
+2001-05-21,Partially cloudy,2
+2001-05-22,Partially cloudy,2
+2001-05-23,Partially cloudy,2
+2001-05-24,Partially cloudy,2
+2001-05-25,Partially cloudy,2
+2001-05-26,Partially cloudy,2
+2001-05-27,Partially cloudy,2
+2001-05-28,Partially cloudy,2
+2001-05-29,Clear,2
+2001-05-30,Partially cloudy,2
+2001-05-31,Partially cloudy,2
+2001-06-01,Partially cloudy,2
+2001-06-02,Partially cloudy,2
+2001-06-03,Partially cloudy,2
+2001-06-04,Partially cloudy,2
+2001-06-05,Partially cloudy,2
+2001-06-06,Partially cloudy,2
+2001-06-07,Partially cloudy,2
+2001-06-08,Partially cloudy,2
+2001-06-09,Partially cloudy,2
+2001-06-10,Partially cloudy,2
+2001-06-11,Partially cloudy,2
+2001-06-12,Partially cloudy,2
+2001-06-13,Partially cloudy,2
+2001-06-14,Clear,2
+2001-06-15,Partially cloudy,2
+2001-06-16,Clear,2
+2001-06-17,Partially cloudy,2
+2001-06-18,Partially cloudy,2
+2001-06-19,Partially cloudy,2
+2001-06-20,Partially cloudy,2
+2001-06-21,Partially cloudy,2
+2001-06-22,Partially cloudy,2
+2001-06-23,Partially cloudy,2
+2001-06-24,Partially cloudy,2
+2001-06-25,Clear,2
+2001-06-26,Partially cloudy,2
+2001-06-27,Clear,2
+2001-06-28,Clear,2
+2001-06-29,Partially cloudy,2
+2001-06-30,Partially cloudy,2
+2002-04-01,Partially cloudy,2
+2002-04-02,Partially cloudy,2
+2002-04-03,Partially cloudy,2
+2002-04-04,Partially cloudy,2
+2002-04-05,Partially cloudy,2
+2002-04-06,"Rain, Partially cloudy",2
+2002-04-07,Partially cloudy,2
+2002-04-08,Partially cloudy,2
+2002-04-09,Partially cloudy,2
+2002-04-10,Partially cloudy,2
+2002-04-11,Partially cloudy,2
+2002-04-12,Partially cloudy,2
+2002-04-13,Partially cloudy,2
+2002-04-14,Partially cloudy,2
+2002-04-15,"Rain, Partially cloudy",2
+2002-04-16,Partially cloudy,2
+2002-04-17,Partially cloudy,2
+2002-04-18,Clear,2
+2002-04-19,Clear,2
+2002-04-20,Clear,2
+2002-04-21,Clear,2
+2002-04-22,Clear,2
+2002-04-23,Partially cloudy,2
+2002-04-24,"Rain, Partially cloudy",2
+2002-04-25,Partially cloudy,2
+2002-04-26,"Rain, Partially cloudy",2
+2002-04-27,Partially cloudy,2
+2002-04-28,Clear,2
+2002-04-29,Clear,2
+2002-04-30,Partially cloudy,2
+2002-05-01,Clear,2
+2002-05-02,Clear,2
+2002-05-03,Partially cloudy,2
+2002-05-04,Partially cloudy,2
+2002-05-05,Partially cloudy,2
+2002-05-06,Partially cloudy,2
+2002-05-07,Partially cloudy,2
+2002-05-08,Partially cloudy,2
+2002-05-09,Partially cloudy,2
+2002-05-10,Clear,2
+2002-05-11,Clear,2
+2002-05-12,Clear,2
+2002-05-13,Clear,2
+2002-05-14,Clear,2
+2002-05-15,Partially cloudy,2
+2002-05-16,Partially cloudy,2
+2002-05-17,Partially cloudy,2
+2002-05-18,Partially cloudy,2
+2002-05-19,Partially cloudy,2
+2002-05-20,"Rain, Partially cloudy",2
+2002-05-21,Clear,2
+2002-05-22,Clear,2
+2002-05-23,Clear,2
+2002-05-24,Partially cloudy,2
+2002-05-25,Partially cloudy,2
+2002-05-26,Partially cloudy,2
+2002-05-27,Partially cloudy,2
+2002-05-28,Partially cloudy,2
+2002-05-29,Partially cloudy,2
+2002-05-30,Partially cloudy,2
+2002-05-31,Partially cloudy,2
+2002-06-01,Partially cloudy,2
+2002-06-02,Partially cloudy,2
+2002-06-03,Partially cloudy,2
+2002-06-04,Partially cloudy,2
+2002-06-05,Partially cloudy,2
+2002-06-06,Partially cloudy,2
+2002-06-07,Partially cloudy,2
+2002-06-08,Partially cloudy,2
+2002-06-09,Partially cloudy,2
+2002-06-10,Partially cloudy,2
+2002-06-11,Partially cloudy,2
+2002-06-12,Partially cloudy,2
+2002-06-13,Partially cloudy,2
+2002-06-14,Clear,2
+2002-06-15,Clear,2
+2002-06-16,Clear,2
+2002-06-17,Clear,2
+2002-06-18,Clear,2
+2002-06-19,Clear,2
+2002-06-20,Partially cloudy,2
+2002-06-21,"Rain, Partially cloudy",2
+2002-06-22,Partially cloudy,2
+2002-06-23,Partially cloudy,2
+2002-06-24,Partially cloudy,2
+2002-06-25,Partially cloudy,2
+2002-06-26,Partially cloudy,2
+2002-06-27,Partially cloudy,2
+2002-06-28,Partially cloudy,2
+2002-06-29,Partially cloudy,2
+2002-06-30,Partially cloudy,2
+2003-04-01,Partially cloudy,2
+2003-04-02,"Rain, Partially cloudy",2
+2003-04-03,Clear,2
+2003-04-04,Clear,2
+2003-04-05,Clear,2
+2003-04-06,Clear,2
+2003-04-07,Clear,2
+2003-04-08,Clear,2
+2003-04-09,Clear,2
+2003-04-10,Partially cloudy,2
+2003-04-11,Partially cloudy,2
+2003-04-12,"Rain, Partially cloudy",2
+2003-04-13,"Rain, Partially cloudy",2
+2003-04-14,"Rain, Partially cloudy",2
+2003-04-15,Partially cloudy,2
+2003-04-16,Clear,2
+2003-04-17,Partially cloudy,2
+2003-04-18,Partially cloudy,2
+2003-04-19,Clear,2
+2003-04-20,Partially cloudy,2
+2003-04-21,Partially cloudy,2
+2003-04-22,Partially cloudy,2
+2003-04-23,Partially cloudy,2
+2003-04-24,Clear,2
+2003-04-25,"Rain, Partially cloudy",2
+2003-04-26,Clear,2
+2003-04-27,Clear,2
+2003-04-28,Partially cloudy,2
+2003-04-29,Clear,2
+2003-04-30,Clear,2
+2003-05-01,Partially cloudy,2
+2003-05-02,"Rain, Partially cloudy",2
+2003-05-03,"Rain, Partially cloudy",2
+2003-05-04,"Rain, Partially cloudy",2
+2003-05-05,Clear,2
+2003-05-06,Partially cloudy,2
+2003-05-07,"Rain, Partially cloudy",2
+2003-05-08,Partially cloudy,2
+2003-05-09,Clear,2
+2003-05-10,Clear,2
+2003-05-11,Clear,2
+2003-05-12,Partially cloudy,2
+2003-05-13,Partially cloudy,2
+2003-05-14,Partially cloudy,2
+2003-05-15,Clear,2
+2003-05-16,Clear,2
+2003-05-17,Partially cloudy,2
+2003-05-18,Partially cloudy,2
+2003-05-19,Partially cloudy,2
+2003-05-20,Clear,2
+2003-05-21,Clear,2
+2003-05-22,Partially cloudy,2
+2003-05-23,Partially cloudy,2
+2003-05-24,Partially cloudy,2
+2003-05-25,Partially cloudy,2
+2003-05-26,Partially cloudy,2
+2003-05-27,Clear,2
+2003-05-28,Clear,2
+2003-05-29,Partially cloudy,2
+2003-05-30,Partially cloudy,2
+2003-05-31,Partially cloudy,2
+2003-06-01,Partially cloudy,2
+2003-06-02,Partially cloudy,2
+2003-06-03,Partially cloudy,2
+2003-06-04,Partially cloudy,2
+2003-06-05,Partially cloudy,2
+2003-06-06,"Rain, Partially cloudy",2
+2003-06-07,Partially cloudy,2
+2003-06-08,Partially cloudy,2
+2003-06-09,Partially cloudy,2
+2003-06-10,"Rain, Partially cloudy",2
+2003-06-11,Partially cloudy,2
+2003-06-12,Partially cloudy,2
+2003-06-13,Partially cloudy,2
+2003-06-14,Clear,2
+2003-06-15,Partially cloudy,2
+2003-06-16,Partially cloudy,2
+2003-06-17,Partially cloudy,2
+2003-06-18,Partially cloudy,2
+2003-06-19,Partially cloudy,2
+2003-06-20,"Rain, Partially cloudy",2
+2003-06-21,"Rain, Partially cloudy",2
+2003-06-22,Partially cloudy,2
+2003-06-23,Partially cloudy,2
+2003-06-24,Partially cloudy,2
+2003-06-25,Clear,2
+2003-06-26,Clear,2
+2003-06-27,Partially cloudy,2
+2003-06-28,Partially cloudy,2
+2003-06-29,Partially cloudy,2
+2003-06-30,Partially cloudy,2
+2004-04-01,"Rain, Partially cloudy",2
+2004-04-02,Partially cloudy,2
+2004-04-03,Overcast,2
+2004-04-04,Partially cloudy,2
+2004-04-05,Partially cloudy,2
+2004-04-06,Partially cloudy,2
+2004-04-07,Partially cloudy,2
+2004-04-08,Partially cloudy,2
+2004-04-09,Partially cloudy,2
+2004-04-10,Partially cloudy,2
+2004-04-11,Partially cloudy,2
+2004-04-12,Partially cloudy,2
+2004-04-13,Partially cloudy,2
+2004-04-14,Clear,2
+2004-04-15,Clear,2
+2004-04-16,Partially cloudy,2
+2004-04-17,"Rain, Partially cloudy",2
+2004-04-18,Partially cloudy,2
+2004-04-19,Partially cloudy,2
+2004-04-20,Clear,2
+2004-04-21,Partially cloudy,2
+2004-04-22,Partially cloudy,2
+2004-04-23,Clear,2
+2004-04-24,Clear,2
+2004-04-25,Clear,2
+2004-04-26,Clear,2
+2004-04-27,Clear,2
+2004-04-28,Partially cloudy,2
+2004-04-29,Partially cloudy,2
+2004-04-30,Clear,2
+2004-05-01,Clear,2
+2004-05-02,Clear,2
+2004-05-03,Clear,2
+2004-05-04,Clear,2
+2004-05-05,Clear,2
+2004-05-06,Partially cloudy,2
+2004-05-07,Partially cloudy,2
+2004-05-08,Clear,2
+2004-05-09,Clear,2
+2004-05-10,Partially cloudy,2
+2004-05-11,Clear,2
+2004-05-12,Clear,2
+2004-05-13,Clear,2
+2004-05-14,Clear,2
+2004-05-15,Partially cloudy,2
+2004-05-16,Partially cloudy,2
+2004-05-17,Partially cloudy,2
+2004-05-18,Partially cloudy,2
+2004-05-19,Clear,2
+2004-05-20,Partially cloudy,2
+2004-05-21,Partially cloudy,2
+2004-05-22,Partially cloudy,2
+2004-05-23,Partially cloudy,2
+2004-05-24,Partially cloudy,2
+2004-05-25,"Rain, Partially cloudy",2
+2004-05-26,Partially cloudy,2
+2004-05-27,Partially cloudy,2
+2004-05-28,Overcast,2
+2004-05-29,Partially cloudy,2
+2004-05-30,Clear,2
+2004-05-31,Clear,2
+2004-06-01,Clear,2
+2004-06-02,Partially cloudy,2
+2004-06-03,Partially cloudy,2
+2004-06-04,Partially cloudy,2
+2004-06-05,Partially cloudy,2
+2004-06-06,Partially cloudy,2
+2004-06-07,Overcast,2
+2004-06-08,Partially cloudy,2
+2004-06-09,Partially cloudy,2
+2004-06-10,Clear,2
+2004-06-11,Clear,2
+2004-06-12,Partially cloudy,2
+2004-06-13,Clear,2
+2004-06-14,Partially cloudy,2
+2004-06-15,Partially cloudy,2
+2004-06-16,Overcast,2
+2004-06-17,Partially cloudy,2
+2004-06-18,Partially cloudy,2
+2004-06-19,Partially cloudy,2
+2004-06-20,Partially cloudy,2
+2004-06-21,Partially cloudy,2
+2004-06-22,Partially cloudy,2
+2004-06-23,Partially cloudy,2
+2004-06-24,Partially cloudy,2
+2004-06-25,Partially cloudy,2
+2004-06-26,Partially cloudy,2
+2004-06-27,Partially cloudy,2
+2004-06-28,Partially cloudy,2
+2004-06-29,Partially cloudy,2
+2004-06-30,Partially cloudy,2
+2005-04-01,Clear,2
+2005-04-02,Partially cloudy,2
+2005-04-03,Partially cloudy,2
+2005-04-04,Partially cloudy,2
+2005-04-05,Clear,2
+2005-04-06,Clear,2
+2005-04-07,Partially cloudy,2
+2005-04-08,Partially cloudy,2
+2005-04-09,Clear,2
+2005-04-10,Clear,2
+2005-04-11,Clear,2
+2005-04-12,Clear,2
+2005-04-13,Clear,2
+2005-04-14,Clear,2
+2005-04-15,Partially cloudy,2
+2005-04-16,Clear,2
+2005-04-17,Partially cloudy,2
+2005-04-18,Overcast,2
+2005-04-19,Partially cloudy,2
+2005-04-20,Partially cloudy,2
+2005-04-21,Clear,2
+2005-04-22,"Rain, Partially cloudy",2
+2005-04-23,Partially cloudy,2
+2005-04-24,"Rain, Partially cloudy",2
+2005-04-25,Partially cloudy,2
+2005-04-26,Partially cloudy,2
+2005-04-27,Partially cloudy,2
+2005-04-28,"Rain, Partially cloudy",2
+2005-04-29,Partially cloudy,2
+2005-04-30,Partially cloudy,2
+2005-05-01,Partially cloudy,2
+2005-05-02,Partially cloudy,2
+2005-05-03,Partially cloudy,2
+2005-05-04,Partially cloudy,2
+2005-05-05,"Rain, Overcast",2
+2005-05-06,"Rain, Partially cloudy",2
+2005-05-07,Partially cloudy,2
+2005-05-08,Partially cloudy,2
+2005-05-09,"Rain, Partially cloudy",2
+2005-05-10,Clear,2
+2005-05-11,Clear,2
+2005-05-12,Clear,2
+2005-05-13,Partially cloudy,2
+2005-05-14,Clear,2
+2005-05-15,Clear,2
+2005-05-16,Partially cloudy,2
+2005-05-17,Partially cloudy,2
+2005-05-18,Clear,2
+2005-05-19,Clear,2
+2005-05-20,Clear,2
+2005-05-21,Clear,2
+2005-05-22,Clear,2
+2005-05-23,Partially cloudy,2
+2005-05-24,Partially cloudy,2
+2005-05-25,Partially cloudy,2
+2005-05-26,Partially cloudy,2
+2005-05-27,Partially cloudy,2
+2005-05-28,Partially cloudy,2
+2005-05-29,Partially cloudy,2
+2005-05-30,Partially cloudy,2
+2005-05-31,Partially cloudy,2
+2005-06-01,Partially cloudy,2
+2005-06-02,Overcast,2
+2005-06-03,Partially cloudy,2
+2005-06-04,Partially cloudy,2
+2005-06-05,Partially cloudy,2
+2005-06-06,Partially cloudy,2
+2005-06-07,Clear,2
+2005-06-08,Clear,2
+2005-06-09,Partially cloudy,2
+2005-06-10,Partially cloudy,2
+2005-06-11,Partially cloudy,2
+2005-06-12,Partially cloudy,2
+2005-06-13,Partially cloudy,2
+2005-06-14,Partially cloudy,2
+2005-06-15,Partially cloudy,2
+2005-06-16,Partially cloudy,2
+2005-06-17,Partially cloudy,2
+2005-06-18,Clear,2
+2005-06-19,Clear,2
+2005-06-20,Clear,2
+2005-06-21,Clear,2
+2005-06-22,Clear,2
+2005-06-23,Clear,2
+2005-06-24,Clear,2
+2005-06-25,Clear,2
+2005-06-26,Clear,2
+2005-06-27,Partially cloudy,2
+2005-06-28,Partially cloudy,2
+2005-06-29,Clear,2
+2005-06-30,Partially cloudy,2
+2006-04-01,"Rain, Partially cloudy",2
+2006-04-02,Clear,2
+2006-04-03,"Rain, Partially cloudy",2
+2006-04-04,"Rain, Overcast",2
+2006-04-05,"Rain, Partially cloudy",2
+2006-04-06,Clear,2
+2006-04-07,Clear,2
+2006-04-08,Partially cloudy,2
+2006-04-09,Partially cloudy,2
+2006-04-10,Partially cloudy,2
+2006-04-11,"Rain, Partially cloudy",2
+2006-04-12,Clear,2
+2006-04-13,Clear,2
+2006-04-14,"Rain, Partially cloudy",2
+2006-04-15,"Rain, Partially cloudy",2
+2006-04-16,Partially cloudy,2
+2006-04-17,Clear,2
+2006-04-18,Clear,2
+2006-04-19,Clear,2
+2006-04-20,Clear,2
+2006-04-21,Partially cloudy,2
+2006-04-22,"Rain, Overcast",2
+2006-04-23,"Rain, Partially cloudy",2
+2006-04-24,Clear,2
+2006-04-25,Partially cloudy,2
+2006-04-26,"Rain, Partially cloudy",2
+2006-04-27,Partially cloudy,2
+2006-04-28,Partially cloudy,2
+2006-04-29,Partially cloudy,2
+2006-04-30,Partially cloudy,2
+2006-05-01,Partially cloudy,2
+2006-05-02,Overcast,2
+2006-05-03,Overcast,2
+2006-05-04,Partially cloudy,2
+2006-05-05,Partially cloudy,2
+2006-05-06,Partially cloudy,2
+2006-05-07,Partially cloudy,2
+2006-05-08,Partially cloudy,2
+2006-05-09,Partially cloudy,2
+2006-05-10,Partially cloudy,2
+2006-05-11,Overcast,2
+2006-05-12,Partially cloudy,2
+2006-05-13,Partially cloudy,2
+2006-05-14,Partially cloudy,2
+2006-05-15,Partially cloudy,2
+2006-05-16,Partially cloudy,2
+2006-05-17,Partially cloudy,2
+2006-05-18,Partially cloudy,2
+2006-05-19,Partially cloudy,2
+2006-05-20,Partially cloudy,2
+2006-05-21,"Rain, Partially cloudy",2
+2006-05-22,"Rain, Partially cloudy",2
+2006-05-23,Clear,2
+2006-05-24,Clear,2
+2006-05-25,Clear,2
+2006-05-26,Partially cloudy,2
+2006-05-27,Partially cloudy,2
+2006-05-28,Clear,2
+2006-05-29,Clear,2
+2006-05-30,Clear,2
+2006-05-31,Clear,2
+2006-06-01,Partially cloudy,2
+2006-06-02,Clear,2
+2006-06-03,Clear,2
+2006-06-04,Clear,2
+2006-06-05,"Rain, Partially cloudy",2
+2006-06-06,Partially cloudy,2
+2006-06-07,Overcast,2
+2006-06-08,"Rain, Overcast",2
+2006-06-09,"Rain, Partially cloudy",2
+2006-06-10,Partially cloudy,2
+2006-06-11,Partially cloudy,2
+2006-06-12,Partially cloudy,2
+2006-06-13,Clear,2
+2006-06-14,Clear,2
+2006-06-15,Clear,2
+2006-06-16,Clear,2
+2006-06-17,Partially cloudy,2
+2006-06-18,Partially cloudy,2
+2006-06-19,Partially cloudy,2
+2006-06-20,Partially cloudy,2
+2006-06-21,Partially cloudy,2
+2006-06-22,Partially cloudy,2
+2006-06-23,Partially cloudy,2
+2006-06-24,Partially cloudy,2
+2006-06-25,Clear,2
+2006-06-26,Rain,2
+2006-06-27,Partially cloudy,2
+2006-06-28,Clear,2
+2006-06-29,Clear,2
+2006-06-30,Clear,2
+2007-04-01,Partially cloudy,2
+2007-04-02,Partially cloudy,2
+2007-04-03,Partially cloudy,2
+2007-04-04,Partially cloudy,2
+2007-04-05,Partially cloudy,2
+2007-04-06,Partially cloudy,2
+2007-04-07,Overcast,2
+2007-04-08,Overcast,2
+2007-04-09,Partially cloudy,2
+2007-04-10,Clear,2
+2007-04-11,Partially cloudy,2
+2007-04-12,Clear,2
+2007-04-13,Clear,2
+2007-04-14,Partially cloudy,2
+2007-04-15,"Rain, Partially cloudy",2
+2007-04-16,Partially cloudy,2
+2007-04-17,Partially cloudy,2
+2007-04-18,Partially cloudy,2
+2007-04-19,Clear,2
+2007-04-20,"Rain, Partially cloudy",2
+2007-04-21,Rain,2
+2007-04-22,"Rain, Partially cloudy",2
+2007-04-23,"Rain, Partially cloudy",2
+2007-04-24,Clear,2
+2007-04-25,Clear,2
+2007-04-26,Partially cloudy,2
+2007-04-27,Clear,2
+2007-04-28,Partially cloudy,2
+2007-04-29,Partially cloudy,2
+2007-04-30,Partially cloudy,2
+2007-05-01,Partially cloudy,2
+2007-05-02,Partially cloudy,2
+2007-05-03,Clear,2
+2007-05-04,Partially cloudy,2
+2007-05-05,Clear,2
+2007-05-06,Clear,2
+2007-05-07,Clear,2
+2007-05-08,Clear,2
+2007-05-09,Clear,2
+2007-05-10,Partially cloudy,2
+2007-05-11,Clear,2
+2007-05-12,Partially cloudy,2
+2007-05-13,Clear,2
+2007-05-14,Partially cloudy,2
+2007-05-15,Partially cloudy,2
+2007-05-16,Partially cloudy,2
+2007-05-17,Partially cloudy,2
+2007-05-18,Partially cloudy,2
+2007-05-19,Partially cloudy,2
+2007-05-20,Partially cloudy,2
+2007-05-21,Overcast,2
+2007-05-22,Partially cloudy,2
+2007-05-23,Partially cloudy,2
+2007-05-24,Partially cloudy,2
+2007-05-25,Partially cloudy,2
+2007-05-26,Partially cloudy,2
+2007-05-27,Partially cloudy,2
+2007-05-28,Partially cloudy,2
+2007-05-29,Partially cloudy,2
+2007-05-30,Partially cloudy,2
+2007-05-31,Partially cloudy,2
+2007-06-01,Partially cloudy,2
+2007-06-02,Partially cloudy,2
+2007-06-03,Overcast,2
+2007-06-04,Partially cloudy,2
+2007-06-05,Partially cloudy,2
+2007-06-06,Clear,2
+2007-06-07,Clear,2
+2007-06-08,Clear,2
+2007-06-09,Partially cloudy,2
+2007-06-10,Partially cloudy,2
+2007-06-11,Partially cloudy,2
+2007-06-12,Partially cloudy,2
+2007-06-13,Partially cloudy,2
+2007-06-14,Partially cloudy,2
+2007-06-15,Partially cloudy,2
+2007-06-16,Partially cloudy,2
+2007-06-17,Partially cloudy,2
+2007-06-18,Partially cloudy,2
+2007-06-19,Partially cloudy,2
+2007-06-20,Partially cloudy,2
+2007-06-21,Clear,2
+2007-06-22,Clear,2
+2007-06-23,Partially cloudy,2
+2007-06-24,Partially cloudy,2
+2007-06-25,Partially cloudy,2
+2007-06-26,Clear,2
+2007-06-27,Clear,2
+2007-06-28,Clear,2
+2007-06-29,Clear,2
+2007-06-30,Clear,2
+2008-04-01,Partially cloudy,2
+2008-04-02,"Rain, Partially cloudy",2
+2008-04-03,Partially cloudy,2
+2008-04-04,Partially cloudy,2
+2008-04-05,Partially cloudy,2
+2008-04-06,Partially cloudy,2
+2008-04-07,Partially cloudy,2
+2008-04-08,Partially cloudy,2
+2008-04-09,Clear,2
+2008-04-10,Clear,2
+2008-04-11,Clear,2
+2008-04-12,Clear,2
+2008-04-13,Clear,2
+2008-04-14,Clear,2
+2008-04-15,Partially cloudy,2
+2008-04-16,Clear,2
+2008-04-17,Clear,2
+2008-04-18,Clear,2
+2008-04-19,Partially cloudy,2
+2008-04-20,Clear,2
+2008-04-21,Clear,2
+2008-04-22,Clear,2
+2008-04-23,Clear,2
+2008-04-24,Clear,2
+2008-04-25,Clear,2
+2008-04-26,Clear,2
+2008-04-27,Clear,2
+2008-04-28,Clear,2
+2008-04-29,Clear,2
+2008-04-30,Partially cloudy,2
+2008-05-01,Clear,2
+2008-05-02,Clear,2
+2008-05-03,Clear,2
+2008-05-04,Partially cloudy,2
+2008-05-05,Partially cloudy,2
+2008-05-06,Partially cloudy,2
+2008-05-07,"Rain, Overcast",2
+2008-05-08,Partially cloudy,2
+2008-05-09,Partially cloudy,2
+2008-05-10,Partially cloudy,2
+2008-05-11,Partially cloudy,2
+2008-05-12,Overcast,2
+2008-05-13,Clear,2
+2008-05-14,Clear,2
+2008-05-15,Clear,2
+2008-05-16,Clear,2
+2008-05-17,Clear,2
+2008-05-18,Clear,2
+2008-05-19,Clear,2
+2008-05-20,Partially cloudy,2
+2008-05-21,Partially cloudy,2
+2008-05-22,"Rain, Partially cloudy",2
+2008-05-23,"Rain, Overcast",2
+2008-05-24,"Rain, Partially cloudy",2
+2008-05-25,Partially cloudy,2
+2008-05-26,Partially cloudy,2
+2008-05-27,Clear,2
+2008-05-28,Clear,2
+2008-05-29,Clear,2
+2008-05-30,Clear,2
+2008-05-31,Partially cloudy,2
+2008-06-01,Clear,2
+2008-06-02,Clear,2
+2008-06-03,Partially cloudy,2
+2008-06-04,Partially cloudy,2
+2008-06-05,Clear,2
+2008-06-06,Clear,2
+2008-06-07,Clear,2
+2008-06-08,Partially cloudy,2
+2008-06-09,Partially cloudy,2
+2008-06-10,Partially cloudy,2
+2008-06-11,Partially cloudy,2
+2008-06-12,Partially cloudy,2
+2008-06-13,Partially cloudy,2
+2008-06-14,Partially cloudy,2
+2008-06-15,Clear,2
+2008-06-16,Clear,2
+2008-06-17,Clear,2
+2008-06-18,Clear,2
+2008-06-19,Clear,2
+2008-06-20,Clear,2
+2008-06-21,Clear,2
+2008-06-22,Clear,2
+2008-06-23,Clear,2
+2008-06-24,Clear,2
+2008-06-25,Partially cloudy,2
+2008-06-26,Partially cloudy,2
+2008-06-27,Partially cloudy,2
+2008-06-28,Partially cloudy,2
+2008-06-29,Clear,2
+2008-06-30,Clear,2
+2009-04-01,Partially cloudy,2
+2009-04-02,Partially cloudy,2
+2009-04-03,Partially cloudy,2
+2009-04-04,Clear,2
+2009-04-05,Clear,2
+2009-04-06,Clear,2
+2009-04-07,"Rain, Partially cloudy",2
+2009-04-08,"Rain, Partially cloudy",2
+2009-04-09,Partially cloudy,2
+2009-04-10,Partially cloudy,2
+2009-04-11,Partially cloudy,2
+2009-04-12,Clear,2
+2009-04-13,Clear,2
+2009-04-14,Partially cloudy,2
+2009-04-15,Clear,2
+2009-04-16,Clear,2
+2009-04-17,Clear,2
+2009-04-18,Clear,2
+2009-04-19,Clear,2
+2009-04-20,Clear,2
+2009-04-21,Clear,2
+2009-04-22,Partially cloudy,2
+2009-04-23,Partially cloudy,2
+2009-04-24,Partially cloudy,2
+2009-04-25,Partially cloudy,2
+2009-04-26,Clear,2
+2009-04-27,Partially cloudy,2
+2009-04-28,Partially cloudy,2
+2009-04-29,Clear,2
+2009-04-30,Clear,2
+2009-05-01,Clear,2
+2009-05-02,Partially cloudy,2
+2009-05-03,Partially cloudy,2
+2009-05-04,Partially cloudy,2
+2009-05-05,Clear,2
+2009-05-06,Clear,2
+2009-05-07,Clear,2
+2009-05-08,Clear,2
+2009-05-09,Partially cloudy,2
+2009-05-10,Partially cloudy,2
+2009-05-11,Partially cloudy,2
+2009-05-12,Partially cloudy,2
+2009-05-13,Clear,2
+2009-05-14,Clear,2
+2009-05-15,Partially cloudy,2
+2009-05-16,Partially cloudy,2
+2009-05-17,Partially cloudy,2
+2009-05-18,Partially cloudy,2
+2009-05-19,Partially cloudy,2
+2009-05-20,Partially cloudy,2
+2009-05-21,Partially cloudy,2
+2009-05-22,Partially cloudy,2
+2009-05-23,Partially cloudy,2
+2009-05-24,Partially cloudy,2
+2009-05-25,Partially cloudy,2
+2009-05-26,Partially cloudy,2
+2009-05-27,Partially cloudy,2
+2009-05-28,Partially cloudy,2
+2009-05-29,Overcast,2
+2009-05-30,Partially cloudy,2
+2009-05-31,Overcast,2
+2009-06-01,Partially cloudy,2
+2009-06-02,Partially cloudy,2
+2009-06-03,"Rain, Partially cloudy",2
+2009-06-04,Partially cloudy,2
+2009-06-05,"Rain, Partially cloudy",2
+2009-06-06,Partially cloudy,2
+2009-06-07,Partially cloudy,2
+2009-06-08,Partially cloudy,2
+2009-06-09,Partially cloudy,2
+2009-06-10,Partially cloudy,2
+2009-06-11,Partially cloudy,2
+2009-06-12,Overcast,2
+2009-06-13,Partially cloudy,2
+2009-06-14,Partially cloudy,2
+2009-06-15,Partially cloudy,2
+2009-06-16,Partially cloudy,2
+2009-06-17,Partially cloudy,2
+2009-06-18,Partially cloudy,2
+2009-06-19,Partially cloudy,2
+2009-06-20,"Rain, Partially cloudy",2
+2009-06-21,Partially cloudy,2
+2009-06-22,Clear,2
+2009-06-23,Partially cloudy,2
+2009-06-24,Partially cloudy,2
+2009-06-25,Partially cloudy,2
+2009-06-26,Partially cloudy,2
+2009-06-27,Clear,2
+2009-06-28,Partially cloudy,2
+2009-06-29,Partially cloudy,2
+2009-06-30,Partially cloudy,2
+2010-04-01,Partially cloudy,2
+2010-04-02,Clear,2
+2010-04-03,Partially cloudy,2
+2010-04-04,"Rain, Partially cloudy",2
+2010-04-05,"Rain, Partially cloudy",2
+2010-04-06,Clear,2
+2010-04-07,Clear,2
+2010-04-08,Clear,2
+2010-04-09,Partially cloudy,2
+2010-04-10,Partially cloudy,2
+2010-04-11,"Rain, Overcast",2
+2010-04-12,"Rain, Partially cloudy",2
+2010-04-13,Clear,2
+2010-04-14,Clear,2
+2010-04-15,Clear,2
+2010-04-16,Clear,2
+2010-04-17,Clear,2
+2010-04-18,Partially cloudy,2
+2010-04-19,Clear,2
+2010-04-20,"Rain, Partially cloudy",2
+2010-04-21,"Rain, Partially cloudy",2
+2010-04-22,"Rain, Partially cloudy",2
+2010-04-23,Clear,2
+2010-04-24,Partially cloudy,2
+2010-04-25,Partially cloudy,2
+2010-04-26,Partially cloudy,2
+2010-04-27,Overcast,2
+2010-04-28,"Rain, Partially cloudy",2
+2010-04-29,Clear,2
+2010-04-30,Clear,2
+2010-05-01,Clear,2
+2010-05-02,Clear,2
+2010-05-03,Clear,2
+2010-05-04,Clear,2
+2010-05-05,Partially cloudy,2
+2010-05-06,Clear,2
+2010-05-07,Clear,2
+2010-05-08,Clear,2
+2010-05-09,Partially cloudy,2
+2010-05-10,Clear,2
+2010-05-11,Clear,2
+2010-05-12,Clear,2
+2010-05-13,Clear,2
+2010-05-14,Partially cloudy,2
+2010-05-15,Partially cloudy,2
+2010-05-16,Overcast,2
+2010-05-17,"Rain, Overcast",2
+2010-05-18,"Rain, Overcast",2
+2010-05-19,Partially cloudy,2
+2010-05-20,Clear,2
+2010-05-21,Partially cloudy,2
+2010-05-22,Clear,2
+2010-05-23,Partially cloudy,2
+2010-05-24,Clear,2
+2010-05-25,Clear,2
+2010-05-26,Partially cloudy,2
+2010-05-27,"Rain, Partially cloudy",2
+2010-05-28,Clear,2
+2010-05-29,Clear,2
+2010-05-30,Clear,2
+2010-05-31,Partially cloudy,2
+2010-06-01,Partially cloudy,2
+2010-06-02,Partially cloudy,2
+2010-06-03,Partially cloudy,2
+2010-06-04,Partially cloudy,2
+2010-06-05,Partially cloudy,2
+2010-06-06,Partially cloudy,2
+2010-06-07,Overcast,2
+2010-06-08,Partially cloudy,2
+2010-06-09,Partially cloudy,2
+2010-06-10,Partially cloudy,2
+2010-06-11,Partially cloudy,2
+2010-06-12,Partially cloudy,2
+2010-06-13,Partially cloudy,2
+2010-06-14,Partially cloudy,2
+2010-06-15,Partially cloudy,2
+2010-06-16,Partially cloudy,2
+2010-06-17,Partially cloudy,2
+2010-06-18,Partially cloudy,2
+2010-06-19,Partially cloudy,2
+2010-06-20,Clear,2
+2010-06-21,Partially cloudy,2
+2010-06-22,Partially cloudy,2
+2010-06-23,Partially cloudy,2
+2010-06-24,Partially cloudy,2
+2010-06-25,Partially cloudy,2
+2010-06-26,Partially cloudy,2
+2010-06-27,Partially cloudy,2
+2010-06-28,Overcast,2
+2010-06-29,Overcast,2
+2010-06-30,Overcast,2
+2011-04-01,Clear,2
+2011-04-02,Overcast,2
+2011-04-03,Partially cloudy,2
+2011-04-04,Clear,2
+2011-04-05,Partially cloudy,2
+2011-04-06,Partially cloudy,2
+2011-04-07,"Rain, Partially cloudy",2
+2011-04-08,Partially cloudy,2
+2011-04-09,Clear,2
+2011-04-10,Clear,2
+2011-04-11,Clear,2
+2011-04-12,Partially cloudy,2
+2011-04-13,Partially cloudy,2
+2011-04-14,Clear,2
+2011-04-15,Clear,2
+2011-04-16,Clear,2
+2011-04-17,Partially cloudy,2
+2011-04-18,Partially cloudy,2
+2011-04-19,Partially cloudy,2
+2011-04-20,Partially cloudy,2
+2011-04-21,Partially cloudy,2
+2011-04-22,Partially cloudy,2
+2011-04-23,Partially cloudy,2
+2011-04-24,Partially cloudy,2
+2011-04-25,Clear,2
+2011-04-26,Clear,2
+2011-04-27,Clear,2
+2011-04-28,Clear,2
+2011-04-29,Clear,2
+2011-04-30,Clear,2
+2011-05-01,Clear,2
+2011-05-02,Clear,2
+2011-05-03,Clear,2
+2011-05-04,Clear,2
+2011-05-05,Partially cloudy,2
+2011-05-06,Partially cloudy,2
+2011-05-07,Partially cloudy,2
+2011-05-08,Partially cloudy,2
+2011-05-09,"Rain, Partially cloudy",2
+2011-05-10,Clear,2
+2011-05-11,Clear,2
+2011-05-12,Clear,2
+2011-05-13,Partially cloudy,2
+2011-05-14,Overcast,2
+2011-05-15,"Rain, Partially cloudy",2
+2011-05-16,Partially cloudy,2
+2011-05-17,"Rain, Partially cloudy",2
+2011-05-18,"Rain, Partially cloudy",2
+2011-05-19,Clear,2
+2011-05-20,Clear,2
+2011-05-21,Partially cloudy,2
+2011-05-22,Partially cloudy,2
+2011-05-23,Partially cloudy,2
+2011-05-24,Rain,2
+2011-05-25,Clear,2
+2011-05-26,Partially cloudy,2
+2011-05-27,Clear,2
+2011-05-28,Clear,2
+2011-05-29,Partially cloudy,2
+2011-05-30,Clear,2
+2011-05-31,Clear,2
+2011-06-01,Clear,2
+2011-06-02,Clear,2
+2011-06-03,Clear,2
+2011-06-04,Partially cloudy,2
+2011-06-05,Partially cloudy,2
+2011-06-06,Partially cloudy,2
+2011-06-07,Clear,2
+2011-06-08,Partially cloudy,2
+2011-06-09,Partially cloudy,2
+2011-06-10,Partially cloudy,2
+2011-06-11,Partially cloudy,2
+2011-06-12,Partially cloudy,2
+2011-06-13,Partially cloudy,2
+2011-06-14,Partially cloudy,2
+2011-06-15,Partially cloudy,2
+2011-06-16,Partially cloudy,2
+2011-06-17,"Rain, Partially cloudy",2
+2011-06-18,Partially cloudy,2
+2011-06-19,Partially cloudy,2
+2011-06-20,Partially cloudy,2
+2011-06-21,Partially cloudy,2
+2011-06-22,Partially cloudy,2
+2011-06-23,Partially cloudy,2
+2011-06-24,Partially cloudy,2
+2011-06-25,Partially cloudy,2
+2011-06-26,Clear,2
+2011-06-27,Clear,2
+2011-06-28,Partially cloudy,2
+2011-06-29,Partially cloudy,2
+2011-06-30,Clear,2
+2012-04-01,Clear,2
+2012-04-02,Clear,2
+2012-04-03,Clear,2
+2012-04-04,Clear,2
+2012-04-05,Clear,2
+2012-04-06,Clear,2
+2012-04-07,Clear,2
+2012-04-08,Clear,2
+2012-04-09,Clear,2
+2012-04-10,Partially cloudy,2
+2012-04-11,"Rain, Partially cloudy",2
+2012-04-12,Partially cloudy,2
+2012-04-13,"Rain, Partially cloudy",2
+2012-04-14,Clear,2
+2012-04-15,Partially cloudy,2
+2012-04-16,Clear,2
+2012-04-17,Clear,2
+2012-04-18,Clear,2
+2012-04-19,Partially cloudy,2
+2012-04-20,Partially cloudy,2
+2012-04-21,Partially cloudy,2
+2012-04-22,Overcast,2
+2012-04-23,"Rain, Overcast",2
+2012-04-24,Partially cloudy,2
+2012-04-25,"Rain, Partially cloudy",2
+2012-04-26,"Rain, Partially cloudy",2
+2012-04-27,Partially cloudy,2
+2012-04-28,Clear,2
+2012-04-29,Partially cloudy,2
+2012-04-30,Overcast,2
+2012-05-01,"Rain, Overcast",2
+2012-05-02,Overcast,2
+2012-05-03,Partially cloudy,2
+2012-05-04,Partially cloudy,2
+2012-05-05,Rain,2
+2012-05-06,Partially cloudy,2
+2012-05-07,Partially cloudy,2
+2012-05-08,Partially cloudy,2
+2012-05-09,Clear,2
+2012-05-10,"Rain, Partially cloudy",2
+2012-05-11,Partially cloudy,2
+2012-05-12,Overcast,2
+2012-05-13,Partially cloudy,2
+2012-05-14,Rain,2
+2012-05-15,Clear,2
+2012-05-16,Clear,2
+2012-05-17,Partially cloudy,2
+2012-05-18,Partially cloudy,2
+2012-05-19,Partially cloudy,2
+2012-05-20,Partially cloudy,2
+2012-05-21,"Rain, Partially cloudy",2
+2012-05-22,Partially cloudy,2
+2012-05-23,Partially cloudy,2
+2012-05-24,Partially cloudy,2
+2012-05-25,"Rain, Partially cloudy",2
+2012-05-26,Clear,2
+2012-05-27,Clear,2
+2012-05-28,Clear,2
+2012-05-29,Clear,2
+2012-05-30,Clear,2
+2012-05-31,Partially cloudy,2
+2012-06-01,Partially cloudy,2
+2012-06-02,Partially cloudy,2
+2012-06-03,Partially cloudy,2
+2012-06-04,Partially cloudy,2
+2012-06-05,Partially cloudy,2
+2012-06-06,Clear,2
+2012-06-07,Clear,2
+2012-06-08,Partially cloudy,2
+2012-06-09,Partially cloudy,2
+2012-06-10,Partially cloudy,2
+2012-06-11,Partially cloudy,2
+2012-06-12,Overcast,2
+2012-06-13,Partially cloudy,2
+2012-06-14,Partially cloudy,2
+2012-06-15,Partially cloudy,2
+2012-06-16,Partially cloudy,2
+2012-06-17,Partially cloudy,2
+2012-06-18,Overcast,2
+2012-06-19,Partially cloudy,2
+2012-06-20,Partially cloudy,2
+2012-06-21,Partially cloudy,2
+2012-06-22,Partially cloudy,2
+2012-06-23,Clear,2
+2012-06-24,Clear,2
+2012-06-25,Clear,2
+2012-06-26,Rain,2
+2012-06-27,Clear,2
+2012-06-28,Clear,2
+2012-06-29,Rain,2
+2012-06-30,Clear,2
+2013-04-01,Partially cloudy,2
+2013-04-02,Partially cloudy,2
+2013-04-03,Partially cloudy,2
+2013-04-04,Partially cloudy,2
+2013-04-05,Partially cloudy,2
+2013-04-06,Partially cloudy,2
+2013-04-07,"Rain, Partially cloudy",2
+2013-04-08,Partially cloudy,2
+2013-04-09,Clear,2
+2013-04-10,Clear,2
+2013-04-11,Clear,2
+2013-04-12,Partially cloudy,2
+2013-04-13,Overcast,2
+2013-04-14,Overcast,2
+2013-04-15,"Rain, Partially cloudy",2
+2013-04-16,"Rain, Partially cloudy",2
+2013-04-17,Clear,2
+2013-04-18,Clear,2
+2013-04-19,Clear,2
+2013-04-20,Clear,2
+2013-04-21,Partially cloudy,2
+2013-04-22,Partially cloudy,2
+2013-04-23,Partially cloudy,2
+2013-04-24,Overcast,2
+2013-04-25,Partially cloudy,2
+2013-04-26,Clear,2
+2013-04-27,Clear,2
+2013-04-28,Partially cloudy,2
+2013-04-29,Partially cloudy,2
+2013-04-30,Overcast,2
+2013-05-01,Partially cloudy,2
+2013-05-02,Clear,2
+2013-05-03,Clear,2
+2013-05-04,Partially cloudy,2
+2013-05-05,Overcast,2
+2013-05-06,"Rain, Overcast",2
+2013-05-07,"Rain, Partially cloudy",2
+2013-05-08,Partially cloudy,2
+2013-05-09,Clear,2
+2013-05-10,Partially cloudy,2
+2013-05-11,Clear,2
+2013-05-12,Clear,2
+2013-05-13,Clear,2
+2013-05-14,Clear,2
+2013-05-15,Partially cloudy,2
+2013-05-16,Partially cloudy,2
+2013-05-17,Partially cloudy,2
+2013-05-18,Partially cloudy,2
+2013-05-19,Clear,2
+2013-05-20,Clear,2
+2013-05-21,Partially cloudy,2
+2013-05-22,Partially cloudy,2
+2013-05-23,Partially cloudy,2
+2013-05-24,Partially cloudy,2
+2013-05-25,Partially cloudy,2
+2013-05-26,Partially cloudy,2
+2013-05-27,Partially cloudy,2
+2013-05-28,Partially cloudy,2
+2013-05-29,Partially cloudy,2
+2013-05-30,Partially cloudy,2
+2013-05-31,Partially cloudy,2
+2013-06-01,Partially cloudy,2
+2013-06-02,Partially cloudy,2
+2013-06-03,Partially cloudy,2
+2013-06-04,Partially cloudy,2
+2013-06-05,Overcast,2
+2013-06-06,Overcast,2
+2013-06-07,Overcast,2
+2013-06-08,Partially cloudy,2
+2013-06-09,Partially cloudy,2
+2013-06-10,Partially cloudy,2
+2013-06-11,Partially cloudy,2
+2013-06-12,Overcast,2
+2013-06-13,Partially cloudy,2
+2013-06-14,Partially cloudy,2
+2013-06-15,Partially cloudy,2
+2013-06-16,Partially cloudy,2
+2013-06-17,Partially cloudy,2
+2013-06-18,Partially cloudy,2
+2013-06-19,Clear,2
+2013-06-20,Clear,2
+2013-06-21,Clear,2
+2013-06-22,Partially cloudy,2
+2013-06-23,Partially cloudy,2
+2013-06-24,Partially cloudy,2
+2013-06-25,Partially cloudy,2
+2013-06-26,Partially cloudy,2
+2013-06-27,Partially cloudy,2
+2013-06-28,Partially cloudy,2
+2013-06-29,Clear,2
+2013-06-30,Clear,2
+2014-04-01,"Rain, Partially cloudy",2
+2014-04-02,"Rain, Partially cloudy",2
+2014-04-03,Clear,2
+2014-04-04,Clear,2
+2014-04-05,Clear,2
+2014-04-06,Clear,2
+2014-04-07,Clear,2
+2014-04-08,Clear,2
+2014-04-09,Clear,2
+2014-04-10,"Rain, Partially cloudy",2
+2014-04-11,Clear,2
+2014-04-12,Partially cloudy,2
+2014-04-13,Partially cloudy,2
+2014-04-14,Clear,2
+2014-04-15,Partially cloudy,2
+2014-04-16,Partially cloudy,2
+2014-04-17,Partially cloudy,2
+2014-04-18,Partially cloudy,2
+2014-04-19,Clear,2
+2014-04-20,Clear,2
+2014-04-21,Partially cloudy,2
+2014-04-22,Partially cloudy,2
+2014-04-23,Clear,2
+2014-04-24,Clear,2
+2014-04-25,"Rain, Partially cloudy",2
+2014-04-26,Rain,2
+2014-04-27,Clear,2
+2014-04-28,Rain,2
+2014-04-29,Clear,2
+2014-04-30,Clear,2
+2014-05-01,Clear,2
+2014-05-02,Clear,2
+2014-05-03,Clear,2
+2014-05-04,Clear,2
+2014-05-05,Partially cloudy,2
+2014-05-06,Partially cloudy,2
+2014-05-07,Clear,2
+2014-05-08,Partially cloudy,2
+2014-05-09,Clear,2
+2014-05-10,Clear,2
+2014-05-11,Clear,2
+2014-05-12,Clear,2
+2014-05-13,Clear,2
+2014-05-14,Clear,2
+2014-05-15,Clear,2
+2014-05-16,Clear,2
+2014-05-17,Clear,2
+2014-05-18,Partially cloudy,2
+2014-05-19,Partially cloudy,2
+2014-05-20,Clear,2
+2014-05-21,Partially cloudy,2
+2014-05-22,Partially cloudy,2
+2014-05-23,Partially cloudy,2
+2014-05-24,Overcast,2
+2014-05-25,Partially cloudy,2
+2014-05-26,Partially cloudy,2
+2014-05-27,Partially cloudy,2
+2014-05-28,Partially cloudy,2
+2014-05-29,Partially cloudy,2
+2014-05-30,Clear,2
+2014-05-31,Clear,2
+2014-06-01,Clear,2
+2014-06-02,Partially cloudy,2
+2014-06-03,Clear,2
+2014-06-04,Partially cloudy,2
+2014-06-05,Partially cloudy,2
+2014-06-06,Partially cloudy,2
+2014-06-07,Partially cloudy,2
+2014-06-08,Partially cloudy,2
+2014-06-09,Partially cloudy,2
+2014-06-10,Partially cloudy,2
+2014-06-11,Partially cloudy,2
+2014-06-12,Partially cloudy,2
+2014-06-13,Partially cloudy,2
+2014-06-14,Partially cloudy,2
+2014-06-15,Partially cloudy,2
+2014-06-16,Partially cloudy,2
+2014-06-17,Partially cloudy,2
+2014-06-18,Partially cloudy,2
+2014-06-19,Partially cloudy,2
+2014-06-20,Clear,2
+2014-06-21,Partially cloudy,2
+2014-06-22,Partially cloudy,2
+2014-06-23,Partially cloudy,2
+2014-06-24,Partially cloudy,2
+2014-06-25,Partially cloudy,2
+2014-06-26,Partially cloudy,2
+2014-06-27,Partially cloudy,2
+2014-06-28,Partially cloudy,2
+2014-06-29,Partially cloudy,2
+2014-06-30,Partially cloudy,2
+2015-04-01,Clear,2
+2015-04-02,Clear,2
+2015-04-03,Clear,2
+2015-04-04,Clear,2
+2015-04-05,Partially cloudy,2
+2015-04-06,Partially cloudy,2
+2015-04-07,"Rain, Partially cloudy",2
+2015-04-08,Clear,2
+2015-04-09,Clear,2
+2015-04-10,Clear,2
+2015-04-11,Clear,2
+2015-04-12,Clear,2
+2015-04-13,Partially cloudy,2
+2015-04-14,Partially cloudy,2
+2015-04-15,Clear,2
+2015-04-16,Clear,2
+2015-04-17,Clear,2
+2015-04-18,Clear,2
+2015-04-19,Clear,2
+2015-04-20,Partially cloudy,2
+2015-04-21,Partially cloudy,2
+2015-04-22,Partially cloudy,2
+2015-04-23,Partially cloudy,2
+2015-04-24,"Rain, Partially cloudy",2
+2015-04-25,"Rain, Partially cloudy",2
+2015-04-26,Clear,2
+2015-04-27,Clear,2
+2015-04-28,Clear,2
+2015-04-29,Clear,2
+2015-04-30,Clear,2
+2015-05-01,Partially cloudy,2
+2015-05-02,Clear,2
+2015-05-03,Partially cloudy,2
+2015-05-04,Partially cloudy,2
+2015-05-05,Partially cloudy,2
+2015-05-06,Partially cloudy,2
+2015-05-07,"Rain, Partially cloudy",2
+2015-05-08,"Rain, Partially cloudy",2
+2015-05-09,Partially cloudy,2
+2015-05-10,Clear,2
+2015-05-11,Clear,2
+2015-05-12,Partially cloudy,2
+2015-05-13,Partially cloudy,2
+2015-05-14,"Rain, Partially cloudy",2
+2015-05-15,"Rain, Partially cloudy",2
+2015-05-16,Partially cloudy,2
+2015-05-17,Partially cloudy,2
+2015-05-18,Partially cloudy,2
+2015-05-19,Rain,2
+2015-05-20,Clear,2
+2015-05-21,Partially cloudy,2
+2015-05-22,Partially cloudy,2
+2015-05-23,Partially cloudy,2
+2015-05-24,Partially cloudy,2
+2015-05-25,Partially cloudy,2
+2015-05-26,Partially cloudy,2
+2015-05-27,Partially cloudy,2
+2015-05-28,Partially cloudy,2
+2015-05-29,Partially cloudy,2
+2015-05-30,Partially cloudy,2
+2015-05-31,Partially cloudy,2
+2015-06-01,Partially cloudy,2
+2015-06-02,Partially cloudy,2
+2015-06-03,Partially cloudy,2
+2015-06-04,Partially cloudy,2
+2015-06-05,Partially cloudy,2
+2015-06-06,Partially cloudy,2
+2015-06-07,Partially cloudy,2
+2015-06-08,Partially cloudy,2
+2015-06-09,"Rain, Partially cloudy",2
+2015-06-10,"Rain, Partially cloudy",2
+2015-06-11,"Rain, Partially cloudy",2
+2015-06-12,Overcast,2
+2015-06-13,Overcast,2
+2015-06-14,Overcast,2
+2015-06-15,Partially cloudy,2
+2015-06-16,Partially cloudy,2
+2015-06-17,Partially cloudy,2
+2015-06-18,Partially cloudy,2
+2015-06-19,Partially cloudy,2
+2015-06-20,Clear,2
+2015-06-21,Partially cloudy,2
+2015-06-22,Clear,2
+2015-06-23,Clear,2
+2015-06-24,Clear,2
+2015-06-25,Partially cloudy,2
+2015-06-26,Partially cloudy,2
+2015-06-27,Clear,2
+2015-06-28,Clear,2
+2015-06-29,Clear,2
+2015-06-30,Clear,2
+2016-04-01,Clear,2
+2016-04-02,Clear,2
+2016-04-03,Clear,2
+2016-04-04,Clear,2
+2016-04-05,Clear,2
+2016-04-06,Partially cloudy,2
+2016-04-07,"Rain, Partially cloudy",2
+2016-04-08,"Rain, Overcast",2
+2016-04-09,"Rain, Overcast",2
+2016-04-10,Partially cloudy,2
+2016-04-11,Partially cloudy,2
+2016-04-12,Clear,2
+2016-04-13,Partially cloudy,2
+2016-04-14,Clear,2
+2016-04-15,Clear,2
+2016-04-16,Clear,2
+2016-04-17,Clear,2
+2016-04-18,Clear,2
+2016-04-19,Clear,2
+2016-04-20,Clear,2
+2016-04-21,Clear,2
+2016-04-22,Partially cloudy,2
+2016-04-23,Clear,2
+2016-04-24,Clear,2
+2016-04-25,Partially cloudy,2
+2016-04-26,Clear,2
+2016-04-27,Clear,2
+2016-04-28,Partially cloudy,2
+2016-04-29,Partially cloudy,2
+2016-04-30,Partially cloudy,2
+2016-05-01,Partially cloudy,2
+2016-05-02,Partially cloudy,2
+2016-05-03,Partially cloudy,2
+2016-05-04,Partially cloudy,2
+2016-05-05,"Rain, Overcast",2
+2016-05-06,"Rain, Partially cloudy",2
+2016-05-07,"Rain, Partially cloudy",2
+2016-05-08,"Rain, Partially cloudy",2
+2016-05-09,"Rain, Partially cloudy",2
+2016-05-10,"Rain, Partially cloudy",2
+2016-05-11,Partially cloudy,2
+2016-05-12,Partially cloudy,2
+2016-05-13,Partially cloudy,2
+2016-05-14,Overcast,2
+2016-05-15,Partially cloudy,2
+2016-05-16,"Rain, Partially cloudy",2
+2016-05-17,Partially cloudy,2
+2016-05-18,Overcast,2
+2016-05-19,Overcast,2
+2016-05-20,Partially cloudy,2
+2016-05-21,Partially cloudy,2
+2016-05-22,Clear,2
+2016-05-23,Partially cloudy,2
+2016-05-24,"Rain, Partially cloudy",2
+2016-05-25,Partially cloudy,2
+2016-05-26,Clear,2
+2016-05-27,Partially cloudy,2
+2016-05-28,"Rain, Overcast",2
+2016-05-29,Partially cloudy,2
+2016-05-30,Partially cloudy,2
+2016-05-31,Partially cloudy,2
+2016-06-01,Overcast,2
+2016-06-02,Partially cloudy,2
+2016-06-03,Partially cloudy,2
+2016-06-04,Partially cloudy,2
+2016-06-05,Overcast,2
+2016-06-06,Partially cloudy,2
+2016-06-07,Partially cloudy,2
+2016-06-08,Partially cloudy,2
+2016-06-09,Partially cloudy,2
+2016-06-10,"Rain, Partially cloudy",2
+2016-06-11,Overcast,2
+2016-06-12,Partially cloudy,2
+2016-06-13,Partially cloudy,2
+2016-06-14,Overcast,2
+2016-06-15,"Rain, Partially cloudy",2
+2016-06-16,Clear,2
+2016-06-17,Clear,2
+2016-06-18,Rain,2
+2016-06-19,Clear,2
+2016-06-20,Clear,2
+2016-06-21,Clear,2
+2016-06-22,Partially cloudy,2
+2016-06-23,"Rain, Partially cloudy",2
+2016-06-24,Partially cloudy,2
+2016-06-25,Partially cloudy,2
+2016-06-26,Partially cloudy,2
+2016-06-27,Partially cloudy,2
+2016-06-28,Partially cloudy,2
+2016-06-29,Partially cloudy,2
+2016-06-30,Partially cloudy,2
+2017-04-01,Clear,2
+2017-04-02,Clear,2
+2017-04-03,Partially cloudy,2
+2017-04-04,Partially cloudy,2
+2017-04-05,Clear,2
+2017-04-06,Partially cloudy,2
+2017-04-07,Partially cloudy,2
+2017-04-08,"Rain, Partially cloudy",2
+2017-04-09,Clear,2
+2017-04-10,Clear,2
+2017-04-11,Clear,2
+2017-04-12,Clear,2
+2017-04-13,Partially cloudy,2
+2017-04-14,Clear,2
+2017-04-15,Clear,2
+2017-04-16,Clear,2
+2017-04-17,Partially cloudy,2
+2017-04-18,Partially cloudy,2
+2017-04-19,Partially cloudy,2
+2017-04-20,Clear,2
+2017-04-21,Clear,2
+2017-04-22,Clear,2
+2017-04-23,Clear,2
+2017-04-24,Partially cloudy,2
+2017-04-25,Clear,2
+2017-04-26,Clear,2
+2017-04-27,Clear,2
+2017-04-28,Clear,2
+2017-04-29,Clear,2
+2017-04-30,Clear,2
+2017-05-01,Clear,2
+2017-05-02,Clear,2
+2017-05-03,Clear,2
+2017-05-04,Partially cloudy,2
+2017-05-05,Overcast,2
+2017-05-06,Partially cloudy,2
+2017-05-07,"Rain, Partially cloudy",2
+2017-05-08,Clear,2
+2017-05-09,Partially cloudy,2
+2017-05-10,Partially cloudy,2
+2017-05-11,Partially cloudy,2
+2017-05-12,Partially cloudy,2
+2017-05-13,Clear,2
+2017-05-14,Partially cloudy,2
+2017-05-15,Partially cloudy,2
+2017-05-16,Clear,2
+2017-05-17,Partially cloudy,2
+2017-05-18,Clear,2
+2017-05-19,Clear,2
+2017-05-20,Clear,2
+2017-05-21,Clear,2
+2017-05-22,Partially cloudy,2
+2017-05-23,Partially cloudy,2
+2017-05-24,Partially cloudy,2
+2017-05-25,Partially cloudy,2
+2017-05-26,Partially cloudy,2
+2017-05-27,Partially cloudy,2
+2017-05-28,Clear,2
+2017-05-29,Partially cloudy,2
+2017-05-30,Overcast,2
+2017-05-31,Overcast,2
+2017-06-01,Partially cloudy,2
+2017-06-02,Partially cloudy,2
+2017-06-03,Partially cloudy,2
+2017-06-04,Overcast,2
+2017-06-05,Partially cloudy,2
+2017-06-06,Partially cloudy,2
+2017-06-07,Partially cloudy,2
+2017-06-08,"Rain, Partially cloudy",2
+2017-06-09,Partially cloudy,2
+2017-06-10,Partially cloudy,2
+2017-06-11,Partially cloudy,2
+2017-06-12,Clear,2
+2017-06-13,Clear,2
+2017-06-14,Clear,2
+2017-06-15,Clear,2
+2017-06-16,Clear,2
+2017-06-17,Partially cloudy,2
+2017-06-18,Partially cloudy,2
+2017-06-19,Partially cloudy,2
+2017-06-20,Partially cloudy,2
+2017-06-21,Partially cloudy,2
+2017-06-22,Partially cloudy,2
+2017-06-23,Overcast,2
+2017-06-24,Partially cloudy,2
+2017-06-25,Clear,2
+2017-06-26,Clear,2
+2017-06-27,Clear,2
+2017-06-28,Partially cloudy,2
+2017-06-29,Partially cloudy,2
+2017-06-30,Partially cloudy,2
+2018-04-01,Partially cloudy,2
+2018-04-02,Partially cloudy,2
+2018-04-03,Partially cloudy,2
+2018-04-04,Overcast,2
+2018-04-05,Partially cloudy,2
+2018-04-06,Clear,2
+2018-04-07,Partially cloudy,2
+2018-04-08,Clear,2
+2018-04-09,Clear,2
+2018-04-10,Clear,2
+2018-04-11,Clear,2
+2018-04-12,Clear,2
+2018-04-13,Clear,2
+2018-04-14,Clear,2
+2018-04-15,Clear,2
+2018-04-16,Clear,2
+2018-04-17,Clear,2
+2018-04-18,Clear,2
+2018-04-19,"Rain, Partially cloudy",2
+2018-04-20,Clear,2
+2018-04-21,Clear,2
+2018-04-22,Clear,2
+2018-04-23,Partially cloudy,2
+2018-04-24,Partially cloudy,2
+2018-04-25,Partially cloudy,2
+2018-04-26,Partially cloudy,2
+2018-04-27,Partially cloudy,2
+2018-04-28,Clear,2
+2018-04-29,Partially cloudy,2
+2018-04-30,Partially cloudy,2
+2018-05-01,"Rain, Overcast",2
+2018-05-02,"Rain, Partially cloudy",2
+2018-05-03,Clear,2
+2018-05-04,Clear,2
+2018-05-05,Clear,2
+2018-05-06,Clear,2
+2018-05-07,Clear,2
+2018-05-08,Partially cloudy,2
+2018-05-09,Partially cloudy,2
+2018-05-10,Partially cloudy,2
+2018-05-11,Overcast,2
+2018-05-12,"Rain, Overcast",2
+2018-05-13,"Rain, Partially cloudy",2
+2018-05-14,Clear,2
+2018-05-15,Partially cloudy,2
+2018-05-16,Clear,2
+2018-05-17,Clear,2
+2018-05-18,Partially cloudy,2
+2018-05-19,Partially cloudy,2
+2018-05-20,Overcast,2
+2018-05-21,"Rain, Partially cloudy",2
+2018-05-22,Partially cloudy,2
+2018-05-23,Partially cloudy,2
+2018-05-24,"Rain, Overcast",2
+2018-05-25,Partially cloudy,2
+2018-05-26,Partially cloudy,2
+2018-05-27,Partially cloudy,2
+2018-05-28,Partially cloudy,2
+2018-05-29,Overcast,2
+2018-05-30,"Rain, Overcast",2
+2018-05-31,Partially cloudy,2
+2018-06-01,Clear,2
+2018-06-02,Clear,2
+2018-06-03,Partially cloudy,2
+2018-06-04,Partially cloudy,2
+2018-06-05,Partially cloudy,2
+2018-06-06,Partially cloudy,2
+2018-06-07,Partially cloudy,2
+2018-06-08,Clear,2
+2018-06-09,Clear,2
+2018-06-10,Clear,2
+2018-06-11,Clear,2
+2018-06-12,Clear,2
+2018-06-13,Partially cloudy,2
+2018-06-14,Partially cloudy,2
+2018-06-15,Partially cloudy,2
+2018-06-16,Overcast,2
+2018-06-17,Partially cloudy,2
+2018-06-18,Partially cloudy,2
+2018-06-19,Partially cloudy,2
+2018-06-20,Partially cloudy,2
+2018-06-21,Overcast,2
+2018-06-22,Overcast,2
+2018-06-23,Partially cloudy,2
+2018-06-24,Partially cloudy,2
+2018-06-25,Partially cloudy,2
+2018-06-26,Partially cloudy,2
+2018-06-27,Partially cloudy,2
+2018-06-28,Partially cloudy,2
+2018-06-29,Partially cloudy,2
+2018-06-30,Partially cloudy,2
+2019-04-01,Clear,2
+2019-04-02,Partially cloudy,2
+2019-04-03,Partially cloudy,2
+2019-04-04,Partially cloudy,2
+2019-04-05,Partially cloudy,2
+2019-04-06,Partially cloudy,2
+2019-04-07,Clear,2
+2019-04-08,Clear,2
+2019-04-09,Clear,2
+2019-04-10,Clear,2
+2019-04-11,Clear,2
+2019-04-12,Clear,2
+2019-04-13,Clear,2
+2019-04-14,Partially cloudy,2
+2019-04-15,Partially cloudy,2
+2019-04-16,Partially cloudy,2
+2019-04-17,Clear,2
+2019-04-18,Clear,2
+2019-04-19,Partially cloudy,2
+2019-04-20,Partially cloudy,2
+2019-04-21,Partially cloudy,2
+2019-04-22,Clear,2
+2019-04-23,Partially cloudy,2
+2019-04-24,Partially cloudy,2
+2019-04-25,Partially cloudy,2
+2019-04-26,Overcast,2
+2019-04-27,Partially cloudy,2
+2019-04-28,"Rain, Partially cloudy",2
+2019-04-29,"Rain, Partially cloudy",2
+2019-04-30,"Rain, Partially cloudy",2
+2019-05-01,Clear,2
+2019-05-02,Partially cloudy,2
+2019-05-03,Partially cloudy,2
+2019-05-04,Partially cloudy,2
+2019-05-05,Partially cloudy,2
+2019-05-06,"Rain, Partially cloudy",2
+2019-05-07,Partially cloudy,2
+2019-05-08,Overcast,2
+2019-05-09,Overcast,2
+2019-05-10,"Rain, Partially cloudy",2
+2019-05-11,"Rain, Partially cloudy",2
+2019-05-12,Partially cloudy,2
+2019-05-13,Partially cloudy,2
+2019-05-14,Partially cloudy,2
+2019-05-15,Partially cloudy,2
+2019-05-16,"Rain, Partially cloudy",2
+2019-05-17,Clear,2
+2019-05-18,"Rain, Partially cloudy",2
+2019-05-19,"Rain, Partially cloudy",2
+2019-05-20,Clear,2
+2019-05-21,Partially cloudy,2
+2019-05-22,"Rain, Partially cloudy",2
+2019-05-23,Partially cloudy,2
+2019-05-24,Clear,2
+2019-05-25,Partially cloudy,2
+2019-05-26,"Rain, Partially cloudy",2
+2019-05-27,Clear,2
+2019-05-28,Clear,2
+2019-05-29,Clear,2
+2019-05-30,Partially cloudy,2
+2019-05-31,Partially cloudy,2
+2019-06-01,Overcast,2
+2019-06-02,Partially cloudy,2
+2019-06-03,Partially cloudy,2
+2019-06-04,Partially cloudy,2
+2019-06-05,Partially cloudy,2
+2019-06-06,Overcast,2
+2019-06-07,Partially cloudy,2
+2019-06-08,Partially cloudy,2
+2019-06-09,Partially cloudy,2
+2019-06-10,Clear,2
+2019-06-11,Clear,2
+2019-06-12,Partially cloudy,2
+2019-06-13,Partially cloudy,2
+2019-06-14,Partially cloudy,2
+2019-06-15,Partially cloudy,2
+2019-06-16,Partially cloudy,2
+2019-06-17,Partially cloudy,2
+2019-06-18,Overcast,2
+2019-06-19,Partially cloudy,2
+2019-06-20,Partially cloudy,2
+2019-06-21,Partially cloudy,2
+2019-06-22,Partially cloudy,2
+2019-06-23,Partially cloudy,2
+2019-06-24,Overcast,2
+2019-06-25,Overcast,2
+2019-06-26,Partially cloudy,2
+2019-06-27,Partially cloudy,2
+2019-06-28,Partially cloudy,2
+2019-06-29,Clear,2
+2019-06-30,Clear,2
+2020-04-01,Partially cloudy,2
+2020-04-02,Partially cloudy,2
+2020-04-03,Clear,2
+2020-04-04,Partially cloudy,2
+2020-04-05,"Rain, Partially cloudy",2
+2020-04-06,"Rain, Partially cloudy",2
+2020-04-07,"Rain, Partially cloudy",2
+2020-04-08,"Rain, Partially cloudy",2
+2020-04-09,"Rain, Partially cloudy",2
+2020-04-10,"Rain, Partially cloudy",2
+2020-04-11,Partially cloudy,2
+2020-04-12,"Rain, Partially cloudy",2
+2020-04-13,"Rain, Partially cloudy",2
+2020-04-14,Clear,2
+2020-04-15,Clear,2
+2020-04-16,Clear,2
+2020-04-17,Partially cloudy,2
+2020-04-18,Partially cloudy,2
+2020-04-19,Partially cloudy,2
+2020-04-20,Partially cloudy,2
+2020-04-21,Clear,2
+2020-04-22,Clear,2
+2020-04-23,Clear,2
+2020-04-24,Clear,2
+2020-04-25,Clear,2
+2020-04-26,Clear,2
+2020-04-27,Clear,2
+2020-04-28,Partially cloudy,2
+2020-04-29,Partially cloudy,2
+2020-04-30,Overcast,2
+2020-05-01,Partially cloudy,2
+2020-05-02,Clear,2
+2020-05-03,Clear,2
+2020-05-04,Clear,2
+2020-05-05,Clear,2
+2020-05-06,Clear,2
+2020-05-07,Clear,2
+2020-05-08,Clear,2
+2020-05-09,Partially cloudy,2
+2020-05-10,Partially cloudy,2
+2020-05-11,Partially cloudy,2
+2020-05-12,Partially cloudy,2
+2020-05-13,Clear,2
+2020-05-14,Clear,2
+2020-05-15,Clear,2
+2020-05-16,Clear,2
+2020-05-17,Partially cloudy,2
+2020-05-18,"Rain, Partially cloudy",2
+2020-05-19,Clear,2
+2020-05-20,Clear,2
+2020-05-21,Clear,2
+2020-05-22,Partially cloudy,2
+2020-05-23,Partially cloudy,2
+2020-05-24,Clear,2
+2020-05-25,Clear,2
+2020-05-26,Partially cloudy,2
+2020-05-27,Partially cloudy,2
+2020-05-28,Partially cloudy,2
+2020-05-29,Partially cloudy,2
+2020-05-30,Partially cloudy,2
+2020-05-31,Clear,2
+2020-06-01,Clear,2
+2020-06-02,Clear,2
+2020-06-03,Clear,2
+2020-06-04,Partially cloudy,2
+2020-06-05,Overcast,2
+2020-06-06,Partially cloudy,2
+2020-06-07,Clear,2
+2020-06-08,Clear,2
+2020-06-09,Clear,2
+2020-06-10,Clear,2
+2020-06-11,Clear,2
+2020-06-12,Partially cloudy,2
+2020-06-13,Clear,2
+2020-06-14,Clear,2
+2020-06-15,Partially cloudy,2
+2020-06-16,Partially cloudy,2
+2020-06-17,Partially cloudy,2
+2020-06-18,Partially cloudy,2
+2020-06-19,Partially cloudy,2
+2020-06-20,Overcast,2
+2020-06-21,Partially cloudy,2
+2020-06-22,Partially cloudy,2
+2020-06-23,Partially cloudy,2
+2020-06-24,Partially cloudy,2
+2020-06-25,Partially cloudy,2
+2020-06-26,Partially cloudy,2
+2020-06-27,Partially cloudy,2
+2020-06-28,Partially cloudy,2
+2020-06-29,Partially cloudy,2
+2020-06-30,Partially cloudy,2
+2021-04-01,Clear,2
+2021-04-02,Partially cloudy,2
+2021-04-03,Partially cloudy,2
+2021-04-04,Clear,2
+2021-04-05,Clear,2
+2021-04-06,Partially cloudy,2
+2021-04-07,Clear,2
+2021-04-08,Clear,2
+2021-04-09,Clear,2
+2021-04-10,Clear,2
+2021-04-11,Partially cloudy,2
+2021-04-12,Partially cloudy,2
+2021-04-13,Overcast,2
+2021-04-14,Partially cloudy,2
+2021-04-15,Partially cloudy,2
+2021-04-16,Partially cloudy,2
+2021-04-17,Partially cloudy,2
+2021-04-18,Clear,2
+2021-04-19,Clear,2
+2021-04-20,Partially cloudy,2
+2021-04-21,Overcast,2
+2021-04-22,Overcast,2
+2021-04-23,Overcast,2
+2021-04-24,Partially cloudy,2
+2021-04-25,Partially cloudy,2
+2021-04-26,Partially cloudy,2
+2021-04-27,Partially cloudy,2
+2021-04-28,Clear,2
+2021-04-29,Clear,2
+2021-04-30,Clear,2
+2021-05-01,Clear,2
+2021-05-02,Partially cloudy,2
+2021-05-03,Partially cloudy,2
+2021-05-04,Partially cloudy,2
+2021-05-05,Partially cloudy,2
+2021-05-06,Partially cloudy,2
+2021-05-07,Partially cloudy,2
+2021-05-08,Partially cloudy,2
+2021-05-09,Partially cloudy,2
+2021-05-10,Partially cloudy,2
+2021-05-11,Partially cloudy,2
+2021-05-12,Overcast,2
+2021-05-13,Overcast,2
+2021-05-14,Partially cloudy,2
+2021-05-15,Partially cloudy,2
+2021-05-16,Overcast,2
+2021-05-17,Partially cloudy,2
+2021-05-18,Partially cloudy,2
+2021-05-19,Partially cloudy,2
+2021-05-20,Partially cloudy,2
+2021-05-21,Clear,2
+2021-05-22,Clear,2
+2021-05-23,Clear,2
+2021-05-24,Clear,2
+2021-05-25,Clear,2
+2021-05-26,Partially cloudy,2
+2021-05-27,Partially cloudy,2
+2021-05-28,Partially cloudy,2
+2021-05-29,Partially cloudy,2
+2021-05-30,Partially cloudy,2
+2021-05-31,Partially cloudy,2
+2021-06-01,Partially cloudy,2
+2021-06-02,Partially cloudy,2
+2021-06-03,Partially cloudy,2
+2021-06-04,Partially cloudy,2
+2021-06-05,Partially cloudy,2
+2021-06-06,Partially cloudy,2
+2021-06-07,Overcast,2
+2021-06-08,Partially cloudy,2
+2021-06-09,Clear,2
+2021-06-10,Clear,2
+2021-06-11,Clear,2
+2021-06-12,Clear,2
+2021-06-13,Partially cloudy,2
+2021-06-14,Clear,2
+2021-06-15,Clear,2
+2021-06-16,Clear,2
+2021-06-17,"Rain, Partially cloudy",2
+2021-06-18,Partially cloudy,2
+2021-06-19,Partially cloudy,2
+2021-06-20,Partially cloudy,2
+2021-06-21,Partially cloudy,2
+2021-06-22,Partially cloudy,2
+2021-06-23,Partially cloudy,2
+2021-06-24,Partially cloudy,2
+2021-06-25,Partially cloudy,2
+2021-06-26,Clear,2
+2021-06-27,Partially cloudy,2
+2021-06-28,Partially cloudy,2
+2021-06-29,Partially cloudy,2
+2021-06-30,Partially cloudy,2
+2022-04-01,Partially cloudy,2
+2022-04-02,Partially cloudy,2
+2022-04-03,Partially cloudy,2
+2022-04-04,Partially cloudy,2
+2022-04-05,Clear,2
+2022-04-06,Clear,2
+2022-04-07,Clear,2
+2022-04-08,Clear,2
+2022-04-09,Clear,2
+2022-04-10,Partially cloudy,2
+2022-04-11,Partially cloudy,2
+2022-04-12,Clear,2
+2022-04-13,Clear,2
+2022-04-14,Clear,2
+2022-04-15,Clear,2
+2022-04-16,Partially cloudy,2
+2022-04-17,Partially cloudy,2
+2022-04-18,Clear,2
+2022-04-19,Clear,2
+2022-04-20,Partially cloudy,2
+2022-04-21,"Rain, Partially cloudy",2
+2022-04-22,"Rain, Partially cloudy",2
+2022-04-23,Clear,2
+2022-04-24,Clear,2
+2022-04-25,Clear,2
+2022-04-26,Clear,2
+2022-04-27,Partially cloudy,2
+2022-04-28,Partially cloudy,2
+2022-04-29,Clear,2
+2022-04-30,Clear,2
+2022-05-01,Partially cloudy,2
+2022-05-02,Partially cloudy,2
+2022-05-03,Partially cloudy,2
+2022-05-04,Clear,2
+2022-05-05,Partially cloudy,2
+2022-05-06,Clear,2
+2022-05-07,Partially cloudy,2
+2022-05-08,Partially cloudy,2
+2022-05-09,Clear,2
+2022-05-10,Clear,2
+2022-05-11,Clear,2
+2022-05-12,Clear,2
+2022-05-13,Clear,2
+2022-05-14,Clear,2
+2022-05-15,Clear,2
+2022-05-16,Partially cloudy,2
+2022-05-17,Partially cloudy,2
+2022-05-18,Partially cloudy,2
+2022-05-19,Overcast,2
+2022-05-20,"Rain, Overcast",2
+2022-05-21,Partially cloudy,2
+2022-05-22,Partially cloudy,2
+2022-05-23,Partially cloudy,2
+2022-05-24,Partially cloudy,2
+2022-05-25,Partially cloudy,2
+2022-05-26,Partially cloudy,2
+2022-05-27,Partially cloudy,2
+2022-05-28,Partially cloudy,2
+2022-05-29,Partially cloudy,2
+2022-05-30,Partially cloudy,2
+2022-05-31,Clear,2
+2022-06-01,Clear,2
+2022-06-02,Partially cloudy,2
+2022-06-03,Partially cloudy,2
+2022-06-04,Overcast,2
+2022-06-05,Partially cloudy,2
+2022-06-06,Partially cloudy,2
+2022-06-07,Partially cloudy,2
+2022-06-08,Overcast,2
+2022-06-09,Partially cloudy,2
+2022-06-10,Partially cloudy,2
+2022-06-11,Partially cloudy,2
+2022-06-12,Partially cloudy,2
+2022-06-13,"Rain, Partially cloudy",2
+2022-06-14,Partially cloudy,2
+2022-06-15,Partially cloudy,2
+2022-06-16,Partially cloudy,2
+2022-06-17,Partially cloudy,2
+2022-06-18,Partially cloudy,2
+2022-06-19,Clear,2
+2022-06-20,Clear,2
+2022-06-21,Clear,2
+2022-06-22,"Rain, Partially cloudy",2
+2022-06-23,Partially cloudy,2
+2022-06-24,Partially cloudy,2
+2022-06-25,Partially cloudy,2
+2022-06-26,Partially cloudy,2
+2022-06-27,Clear,2
+2022-06-28,Partially cloudy,2
+2022-06-29,Partially cloudy,2
+2022-06-30,Partially cloudy,2
