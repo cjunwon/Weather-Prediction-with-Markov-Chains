@@ -1,3 +1,3 @@
-# Math_42_Final_Project
+# Math 42 - Final Project (UCLA)
  
-
+Predicting weather using Markov models
