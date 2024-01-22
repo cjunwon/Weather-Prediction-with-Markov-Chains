@@ -4,7 +4,7 @@ Final Project for <em>**MATH 42: Introduction to Data-Driven Mathematical Modeli
 
 ---
 
-Weather forecasting using Markov chains. The official project report can be found [here](https://github.com/cjunwon/Math_42_Final_Project/blob/main/Merge%20PDFs/Math_42_Final_Project_Report.pdf).
+Weather forecasting using Markov chains. The official project report can be found [here](https://github.com/cjunwon/Weather-Prediction-with-Markov-Chains/blob/main/PDFs/Math_42_Final_Project_Report.pdf).
 
 ---
 
